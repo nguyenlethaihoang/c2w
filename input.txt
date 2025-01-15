@@ -1,0 +1,12 @@
+curl --request POST \
+  --url http://promotion.abc.com/api/promotion/addCustomer \
+  --header 'Content-Type: application/json' \
+  --data '{
+	"customerKey": "123",
+	"customerName": "N/A",
+	"customerPhone": "123",
+	"registerDate": "2025-01-13 00:00:00",
+	"sourceId": "32",
+	"roleId": "2168",
+	"locationId": 0
+}'

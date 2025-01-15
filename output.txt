@@ -1,0 +1,1 @@
+curl -X POST   --url http://promotion.abc.com/api/promotion/addCustomer   -H "Content-Type: application/json"   -d "{\"customerKey\": \"123\",\"customerName\": \"N/A\",\"customerPhone\": \"123\",\"registerDate\": \"2025-01-13 00:00:00\",\"sourceId\": \"32\",\"roleId\": \"2168\",\"locationId\": 0}"
