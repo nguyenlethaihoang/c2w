@@ -1,0 +1,16 @@
+## Commands
+
+go mod init c2w
+go mod tidy
+go get fyne.io/fyne/v2
+go mod tidy
+set FYNE_FORCE_SOFTWARE=1 (optional)
+go run main.go
+
+## Packages
+gcc
+
+##
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
