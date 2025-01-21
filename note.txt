@@ -14,3 +14,6 @@ gcc
 
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+
+go build -ldflags="-s -w" -o c2w.exe
+fyne package -os windows -icon app.ico --executable c2w.exe

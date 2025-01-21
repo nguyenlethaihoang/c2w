@@ -2,6 +2,10 @@
 
 A tool is used to convert curl from Linux OS to Windows OS and written by Golang language.
 
+## Download
+
+[Download execution file] (https://github.com/nguyenlethaihoang/c2w/raw/refs/heads/main/c2w.exe)
+
 ## 🚀 Installation
 To install **c2w**, simply clone the repository and follow the instructions below:
 ```
